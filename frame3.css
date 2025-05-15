@@ -1,0 +1,494 @@
+.frame3-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.frame3-frame3 {
+  width: 483px;
+  height: 800px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  animation-name: fadeIn;
+  animation-delay: 0s;
+  background-color: rgba(255, 255, 255, 1);
+  animation-duration: 300ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+ 
+.frame3-image1 {
+  top: 0px;
+  left: -1155px;
+  width: 1920px;
+  height: 1084px;
+  position: absolute;
+}
+ 
+.frame3-rectangle1 {
+  top: 0px;
+  left: 0px;
+  width: 480px;
+  height: 131px;
+  opacity: 0.70;
+  position: absolute;
+}
+ 
+.frame3-navlink1 {
+  display: contents;
+}
+ 
+.frame3-logo1 {
+  top: 26px;
+  left: 8px;
+  width: 119px;
+  height: 80px;
+  position: absolute;
+  text-decoration: none;
+}
+ 
+.frame3-navlink2 {
+  display: contents;
+}
+ 
+.frame3-group1 {
+  top: 6px;
+  left: 127px;
+  width: 120px;
+  height: 53px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  text-decoration: none;
+}
+ 
+.frame3-rectangle2 {
+  top: 3px;
+  left: 0px;
+  width: 120px;
+  height: 50px;
+  position: absolute;
+  box-shadow: 4px 0px 10px 0px #989898;
+  border-radius: 1000px;
+}
+ 
+.frame3-text1 {
+  left: 16px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: "Jacquarda Bastarda 9";
+  font-weight: 400;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame3-group2 {
+  top: 6px;
+  left: 282px;
+  width: 120px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.frame3-rectangle31 {
+  top: 5.208369731903076px;
+  left: 0px;
+  width: 120px;
+  height: 45px;
+  position: absolute;
+  border-radius: 1000px;
+}
+ 
+.frame3-text2 {
+  top: -1px;
+  left: 34px;
+  color: rgba(255, 255, 255, 1);
+  width: 60px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: "Jacquarda Bastarda 9";
+  font-weight: 400;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame3-navlink3 {
+  display: contents;
+}
+ 
+.frame3-group3 {
+  top: 66px;
+  left: 205px;
+  width: 120px;
+  height: 50.00004196166992px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  text-decoration: none;
+}
+ 
+.frame3-rectangle32 {
+  top: 5.208369731903076px;
+  left: 0px;
+  width: 120px;
+  height: 45px;
+  position: absolute;
+  border-radius: 1000px;
+}
+ 
+.frame3-text3 {
+  left: 12px;
+  color: rgba(0, 0, 0, 1);
+  width: 96px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: "Jacquarda Bastarda 9";
+  font-weight: 400;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame3-navlink4 {
+  display: contents;
+}
+ 
+.frame3-image2 {
+  top: 34px;
+  left: 410px;
+  width: 64px;
+  height: 64px;
+  position: absolute;
+  box-shadow: 4px 0px 10px 0px #808080;
+  border-radius: 28px;
+  text-decoration: none;
+}
+ 
+.frame3-rectangle5 {
+  top: 151px;
+  left: 43px;
+  width: 394px;
+  height: 609px;
+  opacity: 0.90;
+  position: absolute;
+  border-radius: 28px;
+}
+ 
+.frame3-text4 {
+  top: 151px;
+  left: 176px;
+  color: rgba(189, 145, 0, 1);
+  width: 198px;
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  font-style: Regular;
+  text-align: left;
+  font-family: "Jacquarda Bastarda 9";
+  font-weight: 400;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame3-navlink5 {
+  display: contents;
+}
+ 
+.frame3-image5 {
+  top: 740px;
+  left: 419px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  text-decoration: none;
+}
+ 
+.frame3-group11 {
+  top: 263px;
+  left: 59px;
+  width: 361px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.frame3-rectangle61 {
+  top: 0px;
+  left: 0px;
+  width: 371px;
+  height: 59px;
+  position: absolute;
+}
+ 
+.frame3-image31 {
+  top: 5.850113391876221px;
+  left: 10.691522598266602px;
+  width: 38px;
+  height: 38px;
+  position: absolute;
+  border-radius: 28px;
+}
+ 
+.frame3-text5 {
+  top: 4.6820068359375px;
+  left: 66.45751190185547px;
+  color: rgba(0, 0, 0, 1);
+  width: 176px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: "Jacquarda Bastarda 9";
+  font-weight: 400;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame3-rectangle71 {
+  top: 25.31640625px;
+  left: 68.80939483642578px;
+  width: 197px;
+  height: 12px;
+  position: absolute;
+}
+ 
+.frame3-group15 {
+  top: 611px;
+  left: 59px;
+  width: 361px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.frame3-rectangle62 {
+  top: 0px;
+  left: 0px;
+  width: 371px;
+  height: 59px;
+  position: absolute;
+}
+ 
+.frame3-image32 {
+  top: 5.850113391876221px;
+  left: 10.691522598266602px;
+  width: 38px;
+  height: 38px;
+  position: absolute;
+  border-radius: 28px;
+}
+ 
+.frame3-text6 {
+  top: 4.6820068359375px;
+  left: 66.45751190185547px;
+  color: rgba(0, 0, 0, 1);
+  width: 176px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: "Jacquarda Bastarda 9";
+  font-weight: 400;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame3-rectangle72 {
+  top: 25.31640625px;
+  left: 68.80939483642578px;
+  width: 197px;
+  height: 12px;
+  position: absolute;
+}
+ 
+.frame3-group14 {
+  top: 524px;
+  left: 59px;
+  width: 361px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.frame3-rectangle63 {
+  top: 0px;
+  left: 0px;
+  width: 371px;
+  height: 59px;
+  position: absolute;
+}
+ 
+.frame3-image33 {
+  top: 5.850113391876221px;
+  left: 10.691522598266602px;
+  width: 38px;
+  height: 38px;
+  position: absolute;
+  border-radius: 28px;
+}
+ 
+.frame3-text7 {
+  top: 4.6820068359375px;
+  left: 66.45751190185547px;
+  color: rgba(0, 0, 0, 1);
+  width: 176px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: "Jacquarda Bastarda 9";
+  font-weight: 400;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame3-rectangle73 {
+  top: 25.31640625px;
+  left: 68.80939483642578px;
+  width: 197px;
+  height: 12px;
+  position: absolute;
+}
+ 
+.frame3-group13 {
+  top: 437px;
+  left: 59px;
+  width: 361px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.frame3-rectangle64 {
+  top: 0px;
+  left: 0px;
+  width: 371px;
+  height: 59px;
+  position: absolute;
+}
+ 
+.frame3-image34 {
+  top: 5.850113391876221px;
+  left: 10.691522598266602px;
+  width: 38px;
+  height: 38px;
+  position: absolute;
+  border-radius: 28px;
+}
+ 
+.frame3-text8 {
+  top: 4.6820068359375px;
+  left: 66.45751190185547px;
+  color: rgba(0, 0, 0, 1);
+  width: 176px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: "Jacquarda Bastarda 9";
+  font-weight: 400;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame3-rectangle74 {
+  top: 25.31640625px;
+  left: 68.80939483642578px;
+  width: 197px;
+  height: 12px;
+  position: absolute;
+}
+ 
+.frame3-group12 {
+  top: 350px;
+  left: 59px;
+  width: 361px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.frame3-rectangle65 {
+  top: 0px;
+  left: 0px;
+  width: 371px;
+  height: 59px;
+  position: absolute;
+}
+ 
+.frame3-image35 {
+  top: 5.850113391876221px;
+  left: 10.691522598266602px;
+  width: 38px;
+  height: 38px;
+  position: absolute;
+  border-radius: 28px;
+}
+ 
+.frame3-text9 {
+  top: 4.6820068359375px;
+  left: 66.45751190185547px;
+  color: rgba(0, 0, 0, 1);
+  width: 176px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: "Jacquarda Bastarda 9";
+  font-weight: 400;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame3-rectangle75 {
+  top: 25.31640625px;
+  left: 68.80939483642578px;
+  width: 197px;
+  height: 12px;
+  position: absolute;
+}

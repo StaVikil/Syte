@@ -1,0 +1,330 @@
+.desktop1-container1 {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.desktop1-desktop1 {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  animation-name: slideInRight;
+  animation-delay: 0s;
+  background-color: rgba(221, 249, 177, 1);
+  animation-duration: 200ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+ 
+.desktop1-image1 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  background-size: cover;
+}
+ 
+.desktop1-rectangle1 {
+  width: 100%;
+  height: 14vh;
+  opacity: 0.70;
+  position: absolute;
+}
+ 
+.desktop1-container2 {
+  width: 100%;
+  height: 15vh;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+ 
+.desktop1-navlink1 {
+  display: contents;
+}
+ 
+.desktop1-group2 {
+  top: 10%;
+  left: 44%;
+  width: 15vw;
+  height: 5vw;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  text-decoration: none;
+}
+ 
+.desktop1-rectangle3 {
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  border-radius: 1000px;
+}
+ 
+.desktop1-text1 {
+  color: rgb(0, 0, 0);
+  width: 100%;
+  height: 100%;
+  display: grid;
+  position: absolute;
+  font-size: 3vw;
+  font-style: Regular;
+  text-align: center;
+  font-family: "Jacquarda Bastarda 9";
+  font-weight: 400;
+  line-height: 150%;
+  place-items: center;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop1-navlink2 {
+  display: contents;
+}
+ 
+.desktop1-image2 {
+  top: 7;
+  right: 2%;
+  width: 6vw;
+  height: 6vw;
+  position: absolute;
+  border-radius: 28px;
+  text-decoration: none;
+}
+ 
+.desktop1-logo1 {
+  left: 4vw;
+  width: 10%;
+  height: 7vw;
+  position: absolute;
+}
+ 
+.desktop1-navlink3 {
+  display: contents;
+}
+ 
+.desktop1-group1 {
+  top: 10%;
+  left: 22%;
+  width: 15vw;
+  height: 5vw;
+  display: flex;
+  position: absolute;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  flex-shrink: 1;
+  animation-name: none;
+  animation-delay: 0s;
+  text-decoration: none;
+  animation-duration: 300ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+ 
+.desktop1-rectangle2 {
+  left: 0;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  border-radius: 1000px;
+}
+ 
+.desktop1-text2 {
+  color: rgb(0, 0, 0);
+  width: 100%;
+  height: 100%;
+  display: grid;
+  position: absolute;
+  font-size: 3vw;
+  font-style: Regular;
+  text-align: center;
+  font-family: "Jacquarda Bastarda 9";
+  font-weight: 400;
+  line-height: 150%;
+  place-items: center;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop1-navlink4 {
+  display: contents;
+}
+ 
+.desktop1-group3 {
+  top: 10%;
+  left: 66%;
+  width: 15vw;
+  height: 5vw;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  text-decoration: none;
+}
+ 
+.desktop1-rectangle4 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  border-radius: 1000px;
+}
+ 
+.desktop1-text3 {
+  color: rgb(0, 0, 0);
+  width: 100%;
+  height: 100%;
+  display: grid;
+  position: absolute;
+  font-size: 3vw;
+  font-style: Regular;
+  text-align: center;
+  font-family: "Jacquarda Bastarda 9";
+  font-weight: 400;
+  line-height: 150%;
+  place-items: center;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop1-rectangle5 {
+  top: 15vh;
+  width: 100%;
+  height: 80vh;
+  opacity: 0.90;
+  padding: 0 50;
+  position: absolute;
+  border-radius: 28px;
+}
+ 
+.desktop1-container3 {
+  top: 18vh;
+  width: 100%;
+  height: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+ 
+.desktop1-text4 {
+  color: rgb(189, 145, 0);
+  width: 100%;
+  height: auto;
+  padding: 0 50;
+  position: absolute;
+  font-size: 8vh;
+  font-style: Regular;
+  text-align: center;
+  font-family: "Jacquarda Bastarda 9";
+  font-weight: 400;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop1-text5 {
+  top: 10vh;
+  color: rgb(0, 0, 0);
+  width: 100%;
+  height: auto;
+  padding: 0 50;
+  position: absolute;
+  font-size: 5vh;
+  font-style: Regular;
+  text-align: center;
+  font-family: "Jacquarda Bastarda 9";
+  font-weight: 400;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop1-navlink5 {
+  display: contents;
+}
+ 
+.desktop1-group10 {
+  right: 0vh;
+  width: 14vh;
+  bottom: 0vh;
+  height: 14vh;
+  display: flex;
+  position: fixed;
+  align-items: center;
+  flex-shrink: 1;
+  justify-content: center;
+  text-decoration: none;
+}
+ 
+.desktop1-rectangle13 {
+  width: auto;
+  height: 100%;
+  position: absolute;
+  border-radius: 28px;
+}
+ 
+.desktop1-image6 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+ 
+@media(max-width: 991px) {
+  .desktop1-text1 {
+    font-size: 4vh;
+  }
+  .desktop1-image2 {
+    top: 2.5vh;
+  }
+  .desktop1-logo1 {
+    top: 2.5vh;
+  }
+  .desktop1-text2 {
+    font-size: 4vh;
+  }
+  .desktop1-text3 {
+    font-size: 4vh;
+  }
+  .desktop1-text4 {
+    font-size: 6vh;
+  }
+  .desktop1-text5 {
+    font-size: 4vh;
+  }
+}
+ 
+@media(max-width: 767px) {
+  .desktop1-text1 {
+    font-size: 3vh;
+  }
+  .desktop1-image2 {
+    top: 3vh;
+  }
+  .desktop1-text2 {
+    font-size: 3vh;
+  }
+  .desktop1-text3 {
+    font-size: 3vh;
+  }
+  .desktop1-text4 {
+    font-size: 5vh;
+  }
+  .desktop1-text5 {
+    font-size: 3vh;
+  }
+}
+ 
+@media(max-width: 479px) {
+  .desktop1-logo1 {
+    top: 4vh;
+  }
+}
